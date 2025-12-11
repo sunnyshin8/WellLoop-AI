@@ -17,7 +17,7 @@ export default function AboutPage() {
 
                     <h2 className="text-2xl font-semibold mb-4 text-zinc-800 dark:text-white">Why WellLoop?</h2>
                     <p className="text-zinc-600 dark:text-zinc-400">
-                        Traditional tools are reactive—they report burnout after it's too late. WellLoop is **predictive**. We leverage advanced AI to detect the subtle signals of fatigue and friction 24 hours before they become a crisis. By deeply understanding the unique context of Engineers, Designers, and Product Managers, we foster a culture of sustainable high performance.
+                        Traditional tools are reactive they report burnout after it's too late. WellLoop is **predictive**. We leverage advanced AI to detect the subtle signals of fatigue and friction 24 hours before they become a crisis. By deeply understanding the unique context of Engineers, Designers, and Product Managers, we foster a culture of sustainable high performance.
                     </p>
                 </div>
 
