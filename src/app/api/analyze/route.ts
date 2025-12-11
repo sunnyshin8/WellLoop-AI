@@ -9,7 +9,7 @@ export async function POST(request: Request) {
         const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || '');
         // Using gemini-2.5-flash as verified by model test script.
         const model = genAI.getGenerativeModel({
-            model: "gemini-2.5-flash",
+            model: "gemini-flash-latest",
             generationConfig: { responseMimeType: "application/json" }
         });
 
