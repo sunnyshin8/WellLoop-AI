@@ -37,3 +37,4 @@ next-env.d.ts
 verify_gemini.js
 list_models.js
 wellloop-pitch-roadmap.md
+venv/
