@@ -1,7 +1,7 @@
 # WellLoop AI
 > **Predict and prevent team burnout with AI.**
 
-WellLoop AI is an intelligent organizational psychology platform built for **Snowfest 2025**. It moves beyond generic surveys to provide role-adaptive insights and predictive burnout detection for engineering teams.
+WellLoop AI is an intelligent organizational psychology platform. It moves beyond generic surveys to provide role-adaptive insights and predictive burnout detection for engineering teams.
 
 ![WellLoop AI Dashboard](/public/logo.png)
 
@@ -58,4 +58,4 @@ We include a **Python RAG (Retrieval-Augmented Generation) Module** designed to:
 5. Open [http://localhost:3000](http://localhost:3000).
 
 ---
-Built with ❤️ for Snowfest 2025.
+Built with ❤️ by the WellLoop Team.

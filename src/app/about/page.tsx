@@ -15,24 +15,24 @@ export default function AboutPage() {
                         We are dedicated to providing engineering leaders with the intelligence they need to support their teams proactively. By combining role-adaptive surveys with predictive AI, we turn vague feelings into actionable data.
                     </p>
 
-                    <h2 className="text-2xl font-semibold mb-4 text-zinc-800 dark:text-white">Why Snowfest?</h2>
+                    <h2 className="text-2xl font-semibold mb-4 text-zinc-800 dark:text-white">Why WellLoop?</h2>
                     <p className="text-zinc-600 dark:text-zinc-400">
-                        This project was created for the **Snowfest 2025 Hackathon** to demonstrate how AI can be applied to organizational psychology. We believe that by listening to the specific needs of Engineers, Designers, and Product Managers, we can create healthier, more productive work environments.
+                        Traditional tools are reactive—they report burnout after it's too late. WellLoop is **predictive**. We leverage advanced AI to detect the subtle signals of fatigue and friction 24 hours before they become a crisis. By deeply understanding the unique context of Engineers, Designers, and Product Managers, we foster a culture of sustainable high performance.
                     </p>
                 </div>
 
                 <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8">
                     <div className="p-6 bg-white dark:bg-zinc-900 rounded-2xl shadow-sm border border-zinc-200 dark:border-zinc-800">
                         <h3 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-pink-500 mb-3">Empathy First</h3>
-                        <p className="text-zinc-600 dark:text-zinc-400 text-sm">Understanding the human behind the code. We prioritize mental health as a critical metric of success.</p>
+                        <p className="text-zinc-600 dark:text-zinc-400 text-sm">Understanding the human behind the code. We prioritize mental health as a critical metric of engineering success.</p>
                     </div>
                     <div className="p-6 bg-white dark:bg-zinc-900 rounded-2xl shadow-sm border border-zinc-200 dark:border-zinc-800">
-                        <h3 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-cyan-500 mb-3">Data-Driven</h3>
-                        <p className="text-zinc-600 dark:text-zinc-400 text-sm">Decisions based on facts, not just feelings. We use advanced analytics to uncover hidden patterns.</p>
+                        <h3 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-cyan-500 mb-3">Predictive Intelligence</h3>
+                        <p className="text-zinc-600 dark:text-zinc-400 text-sm">Moving beyond lag indicators. Our AI identifies blockers and alignment gaps in real-time, preventing velocity drops.</p>
                     </div>
                     <div className="p-6 bg-white dark:bg-zinc-900 rounded-2xl shadow-sm border border-zinc-200 dark:border-zinc-800">
-                        <h3 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-amber-500 to-orange-500 mb-3">Proactive Support</h3>
-                        <p className="text-zinc-600 dark:text-zinc-400 text-sm">Solving problems before they become crises. Early detection is effectively prevention.</p>
+                        <h3 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-amber-500 to-orange-500 mb-3">Role-Adaptive</h3>
+                        <p className="text-zinc-600 dark:text-zinc-400 text-sm">Context matters. We ask the right questions to the right people, respecting the unique workflow of every role.</p>
                     </div>
                 </div>
             </div>
